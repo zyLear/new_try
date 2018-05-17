@@ -1,3 +1,6 @@
 windows_final
 
 add something
+
+learn fetch and switch to remote
+
